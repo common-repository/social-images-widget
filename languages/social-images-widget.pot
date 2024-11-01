@@ -1,0 +1,155 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-07-03 15:47-0500\n"
+"PO-Revision-Date: 2016-06-19 01:08-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _n:1,2;_e;esc_html__;_nx:1,2;printf;__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: .git\n"
+"X-Poedit-SearchPathExcluded-1: css\n"
+
+#: class-social-images-widget-feed.php:28
+msgid "Instagram not authorized."
+msgstr ""
+
+#: class-social-images-widget-feed.php:38
+msgid "Unable to communicate with Instagram."
+msgstr ""
+
+#: class-social-images-widget-feed.php:42
+msgid "Instagram did not return a 200."
+msgstr ""
+
+#: class-social-images-widget-feed.php:49
+msgid "Instagram has returned invalid data."
+msgstr ""
+
+#: class-social-images-widget-feed.php:77
+msgid "Instagram did not return any images."
+msgstr ""
+
+#: class-social-images-widget-settings.php:29
+msgid "Settings"
+msgstr ""
+
+#: class-social-images-widget.php:9 class-social-images-widget.php:73
+msgid "Instagram"
+msgstr ""
+
+#: class-social-images-widget.php:12
+msgid "Displays your latest Instagram photos"
+msgstr ""
+
+#: class-social-images-widget.php:86
+#: partials/admin/social-images-widget-admin-display.php:27
+msgid "Authorize Instagram"
+msgstr ""
+
+#: class-social-images-widget.php:91
+msgid "Username"
+msgstr ""
+
+#: class-social-images-widget.php:94
+msgid "Title"
+msgstr ""
+
+#: class-social-images-widget.php:96
+msgid "Number of photos"
+msgstr ""
+
+#: class-social-images-widget.php:98
+msgid "Photo size"
+msgstr ""
+
+#: class-social-images-widget.php:100
+msgid "Medium"
+msgstr ""
+
+#: class-social-images-widget.php:101
+msgid "Small"
+msgstr ""
+
+#: class-social-images-widget.php:102
+msgid "Large (Full)"
+msgstr ""
+
+#: class-social-images-widget.php:106
+msgid "Open links in"
+msgstr ""
+
+#: class-social-images-widget.php:108
+msgid "New window (_blank)"
+msgstr ""
+
+#: class-social-images-widget.php:109
+msgid "Current window (_self)"
+msgstr ""
+
+#: partials/admin/social-images-widget-admin-display.php:29
+msgid "In order to use this widget to show your Instagram images on your website, you need to authorize access to your Instagram account."
+msgstr ""
+
+#: partials/admin/social-images-widget-admin-display.php:29
+msgid "Click the button below and authorize the \"LyraThemes Social Images Widget\" application."
+msgstr ""
+
+#: partials/admin/social-images-widget-admin-display.php:31
+msgid "Connect Your Instagram Account"
+msgstr ""
+
+#: partials/admin/social-images-widget-admin-display.php:38
+msgid "Save Instagram Account"
+msgstr ""
+
+#: partials/admin/social-images-widget-admin-display.php:40
+msgid "Thanks for authorizing your Instagram account."
+msgstr ""
+
+#: partials/admin/social-images-widget-admin-display.php:40
+msgid "To finalize the connection, please go ahead and save these settings by clicking the \"Save Instagram User\" button below."
+msgstr ""
+
+#: partials/admin/social-images-widget-admin-display.php:46
+#: partials/admin/social-images-widget-admin-display.php:65
+msgid "Instagram Username: "
+msgstr ""
+
+#: partials/admin/social-images-widget-admin-display.php:52
+msgid "Save Instagram User"
+msgstr ""
+
+#: partials/admin/social-images-widget-admin-display.php:61
+msgid "Instagram Account Connected"
+msgstr ""
+
+#: partials/admin/social-images-widget-admin-display.php:63
+msgid "Your Instagram account is connected."
+msgstr ""
+
+#: partials/admin/social-images-widget-admin-display.php:67
+#, php-format
+msgid "You can now go to <a href=\"%s\">Appearance > Widgets</a> to add the Instagram widget on your website."
+msgstr ""
+
+#: partials/admin/social-images-widget-admin-display.php:76
+msgid "If you would like to remove this account or connect a new one, please click \"Remove Instagram User\" below."
+msgstr ""
+
+#: partials/admin/social-images-widget-admin-display.php:80
+msgid "Remove Instagram User"
+msgstr ""
+
+#: partials/admin/social-images-widget-admin-display.php:82
+#, php-format
+msgid "To completely remove access for the <em>\"LyraThemes Social Images Widget\"</em> application, you will need to remove it from your <a href=\"%s\" target=\"_blank\">Authorized Applications</a> in your Instagram account."
+msgstr ""
